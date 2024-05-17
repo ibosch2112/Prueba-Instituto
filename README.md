@@ -1,4 +1,4 @@
-# Prueba-Instituto
+# Praticas-Instituto
 <!DOCTYPE html>
 <html lang="es">
 <head>
